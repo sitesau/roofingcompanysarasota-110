@@ -1,0 +1,22 @@
+{
+  "wheel_id": 658,
+  "structure": "umbrella",
+  "slug": "roofingcompanysarasota-110",
+  "project": "roof-repairs-sarasota-diy-vs-professional-a704e7eb8ef16582ffd9b",
+  "parent_t1_ref": "roofingcompanysarasota-154",
+  "node_role": "feeder",
+  "money_target": "roofingcompanysarasota.net",
+  "primary_kw": "roof repairs sarasota diy vs professional",
+  "intended_url": "https://sitesau.github.io/roofingcompanysarasota-110/",
+  "tier": "T2",
+  "writeback_nonce": "9c0bd7d7672ceaa6",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/roof-repairs-sarasota-materials-compared-9fb5ee0a72d3f8b67be3b7/",
+      "anchor": "Roof Repairs Sarasota Materials Compared: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
